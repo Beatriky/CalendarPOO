@@ -1,6 +1,6 @@
 <?php
 
-namespace App\app\Views;
+namespace App\Views;
 use Laminas\Diactoros\Response;
 use Twig\Environment;
 
